@@ -1,0 +1,45 @@
+{
+  "command1" : {
+                            "syntax": "jalankan",
+                            "fungsi": "run script",
+                            "output": "python "
+                             },
+  "command2" : {
+                            "syntax": "run",
+                            "fungsi": "run script",
+                            "output": "python "
+                            },
+  "command3" : {
+                            "syntax": "buka",
+                            "fungsi": "membuka url",
+                            "output": "xdg-open "
+                            },
+  "command4" : {
+                            "syntax": "alice buatkan sebuah program",
+                            "fungsi": "create program",
+                            "output": "None"
+                            },
+  "command5" : {
+                            "syntax" : "alice update termux",
+                            "fungsi" : "update termux",
+                            "output" : "pkg update && pkg upgrade"
+                            },
+  "command6" : {
+                            "syntax" : "alice bersihkan layar",
+                            "fungsi" : "clear screen",
+                            "output" : "clear"
+                            },
+  "command7" : {
+                            "syntax": "alice matikan termux",
+                            "fungsi": "kill termux",
+                            "output": "logout"
+                            },
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+  "total command": 6
+}
