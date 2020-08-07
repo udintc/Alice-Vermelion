@@ -37,7 +37,7 @@
   "command8" : {
                             "syntax": "update",
                             "fungsi": "up to date",
-                            "output": "rm ./bahan/database.json"
+                            "output": "rm bahan/database.json"
                             },
 
                             
