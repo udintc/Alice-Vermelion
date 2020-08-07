@@ -34,6 +34,12 @@
                             "fungsi": "kill termux",
                             "output": "logout"
                             },
+  "command8" : {
+                            "syntax": "update",
+                            "fungsi": "up to date",
+                            "output": "None"
+                            },
+
                             
                             
                             
