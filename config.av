@@ -1,0 +1,29 @@
+{
+  "Klik Bot" : { 
+                     "jam santai" : [ 9, 12, 18, 22]
+                     },
+  "Api"         : {
+                      "api_id"      : ["ca223a092620ae59831e413c530144d9", "8aa39532bbe8df5e42bb301a10d8f84e", "ac048e1a51606381a87c6acc5a2c83bd"],
+                      "api_hash" : ["1632942", "1773354", "1610505"]
+                      },
+  "Koneksi" : {
+                      "ping 60"    : 3,
+                      "ping 80"    : 5,
+                      "ping 100"  : 7,
+                      "ping 150"  : 10,
+                      "ping 300"  : 15,
+                      "ping 500"  :  25,
+                      "ping 800"  :  35,
+                      "ping 1000":  45,
+                      "ping 1100":  "Koneksi Buruk"
+                      },
+  "Jumlah Hp"     : 4,
+  "Max Join"        : 3,
+  "Delay"              : [3600, 3601, 3602, 3603, 3604, 3605, 3606, 3607, 3608, 3609, 3610],
+  "Delay Visit"     : 21600,
+  "Delay Captha" : 120,
+  "No Inti"             : "+6289675631654",
+  "Serialkey"         : "MArtStar",
+  "Atas Nama"      : "Muhaminudin",
+  "Durasi"              : "Unlimited"
+}
